@@ -19,7 +19,7 @@ import traceback
 import re
 import time
 
-os.environ['HTTPS_PROXY'] = 'http://127.0.0.1:7890'
+# os.environ['HTTPS_PROXY'] = 'http://127.0.0.1:7890'
 
 # 加载 .env 文件
 load_dotenv()
