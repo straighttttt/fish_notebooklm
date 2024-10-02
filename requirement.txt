@@ -1,0 +1,29 @@
+根据项目的代码和结构，我可以为您列出需要安装的依赖。这些依赖分为前端（client）和后端（backend）两部分。
+
+前端依赖：
+
+npm install react react-dom axios tailwindcss@latest postcss@latest autoprefixer@latest
+
+后端依赖：
+
+pip install flask flask-cors openai python-dotenv loguru pydantic pypdf tenacity requests
+
+这些依赖包括：
+
+前端：
+
+React 和 ReactDOM：用于构建用户界面
+Axios：用于发送HTTP请求
+Tailwind CSS：用于快速构建自定义设计
+
+
+后端：
+
+Flask 和 Flask-CORS：用于创建Web应用和处理跨域请求
+OpenAI：用于与OpenAI API交互
+python-dotenv：用于加载环境变量
+Loguru：用于日志记录
+Pydantic：用于数据验证
+PyPDF：用于处理PDF文件
+Tenacity：用于重试机制
+Requests：用于发送HTTP请求（用于Fish Audio API）

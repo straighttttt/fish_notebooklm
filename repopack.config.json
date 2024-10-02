@@ -1,0 +1,17 @@
+{
+    "ignore": {
+      "useGitignore": true,
+      "useDefaultPatterns": true,
+      "customPatterns": [
+        "node_modules/**",
+        "**/package-lock.json",
+        "**/.git/**",
+        "**/repopack-output.txt"
+      ]
+    },
+    "output": {
+      "filePath": "repopack-output.txt",
+      "style": "plain",
+      "topFilesLength": 10
+    }
+  }
